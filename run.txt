@@ -1,0 +1,12 @@
+Steps to run the project:-
+
+Step 1 :- First of all save the entire files in one folder.
+Step 2 :- Open the folder where you have save the files.
+Step 3 :- Start the command line of that particular folder.
+Step 4 :- Write the following command- python chat.py
+Step 5 :- Now open any web browser and type 127.0.0.1 and press enter.
+Step 6 :- TM- the chatbot will start and you can start chatting with it.
+Step 7 :- To quit the chat press ctrl+c in command line and close the browser. Close the command line.
+
+Note:- You have to go inside that folder where you have save the entire files and then open the command line for that folder.
+       Otherwise it will not work. 
